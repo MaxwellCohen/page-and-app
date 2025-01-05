@@ -2,7 +2,7 @@
 export default function Home() {
     return (
       <div>
-        Hi from app dir Pizza file  
+        Hi from from src/app/about/page.tsx 
       </div>
     );
   }
